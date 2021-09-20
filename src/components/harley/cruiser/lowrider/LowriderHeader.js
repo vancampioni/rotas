@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 
-import '../../Header/Header.css'
+import '../../../header/Header.css'
 
 export default function LowriderHeader() {
     return (

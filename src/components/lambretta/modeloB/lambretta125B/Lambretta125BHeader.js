@@ -3,12 +3,12 @@ import { Link } from 'react-router-dom';
 
 import '../../../header/Header.css'
 
-export default function SportglideHeader() {
+export default function Lambretta125B() {
     return (
         <header className="menu">
             <nav className="navMenu">
                 <ul>
-                    <li> <Link to='cruiser'>Voltar</Link> </li>
+                    <li> <Link to='modeloB'>Voltar</Link> </li>
                 </ul>
             </nav>
         </header>
